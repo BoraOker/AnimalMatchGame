@@ -1,0 +1,21 @@
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Release\net6.0-windows\Animal Match Game.exe
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Release\net6.0-windows\Animal Match Game.deps.json
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Release\net6.0-windows\Animal Match Game.runtimeconfig.json
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Release\net6.0-windows\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Release\net6.0-windows\Animal Match Game.pdb
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.csproj.AssemblyReference.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\MainWindow.g.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\App.g.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game_MarkupCompile.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game_MarkupCompile.lref
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\MainWindow.baml
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.g.resources
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.AssemblyInfoInputs.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.AssemblyInfo.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.csproj.CoreCompileInputs.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\refint\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.pdb
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\Animal Match Game.genruntimeconfig.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Release\net6.0-windows\ref\Animal Match Game.dll

@@ -1,0 +1,62 @@
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.exe
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.deps.json
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.runtimeconfig.json
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.csproj.AssemblyReference.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.lref
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.g.resources
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfoInputs.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfo.cs
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.csproj.CoreCompileInputs.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\refint\Animal Match Game.dll
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.genruntimeconfig.cache
+C:\Users\Aryom\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\ref\Animal Match Game.dll
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.exe
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.deps.json
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.runtimeconfig.json
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.csproj.AssemblyReference.cache
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.cache
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.lref
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.g.resources
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfoInputs.cache
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfo.cs
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\refint\Animal Match Game.dll
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.genruntimeconfig.cache
+C:\Users\nfsbo\source\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\ref\Animal Match Game.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.exe
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.deps.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.runtimeconfig.json
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\bin\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game_MarkupCompile.lref
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.g.resources
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfoInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.AssemblyInfo.cs
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.csproj.CoreCompileInputs.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\refint\Animal Match Game.dll
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.pdb
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\Animal Match Game.genruntimeconfig.cache
+C:\Users\nfsbo\Desktop\YAZILIM 2024\repos\Animal Match Game\Animal Match Game\obj\Debug\net6.0-windows\ref\Animal Match Game.dll

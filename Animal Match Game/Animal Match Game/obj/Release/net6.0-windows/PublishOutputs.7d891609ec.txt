@@ -1,0 +1,5 @@
+C:\publishproject\Animal Match Game.exe
+C:\publishproject\Animal Match Game.dll
+C:\publishproject\Animal Match Game.deps.json
+C:\publishproject\Animal Match Game.runtimeconfig.json
+C:\publishproject\Animal Match Game.pdb
